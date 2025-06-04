@@ -1,0 +1,8 @@
+old venv removed
+rm -rf venv
+
+///// googletranslator.py
+TK update versin na hole thik moto kaj kore nah
+
+version update step by step
+onk gula step ace gpt step flow korle solved hobe.
