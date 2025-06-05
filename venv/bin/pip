@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/bdcalling/Documents/QR code generator in python/venv/bin/python" "$0" "$@"
+'''exec' "/Users/bdcalling/Documents/QR code generator in python/venv/bin/python3.13" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
