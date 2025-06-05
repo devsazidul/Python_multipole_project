@@ -3,3 +3,21 @@ python front-end package
 2. PySide -- professinal like good UI
 3. Kivy - windos, android apps type
 4. DearPyGUI -- Game like UI-desing
+
+
+for desktop app :
+    Tkinter, PyQt, Kivy
+
+for simple web UI:
+    Streamlit, Dash, Anil
+
+for python games:
+    arcade
+    pygame
+
+python
+    numpy - Library for working with arrays
+    Scipy - Library for Statistical Science
+    Matplotib - Graph plotting Library
+    NLTK - Natural language toolkit
+    tensorflow - machine learning
